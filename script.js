@@ -5,9 +5,9 @@ do{ document.writeln(a+"<br>" + "i am learning javascript<br>");
  while(a<10)
 
 
-    
-for( b=5; b<=20; b++)
+
+for( b=6; b<=20; b++)
 {
-    document.writeln(b + "<br>" + "i am learning for loop <br>");
+    document.writeln(b + ")" + "<br>" + "i am learning for loop <br>");
     console.log(b);
 }
